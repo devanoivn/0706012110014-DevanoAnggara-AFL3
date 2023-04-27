@@ -37,7 +37,7 @@
 		046C17D929FAEA97004D0C1F /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EEC2AA29FA7A51004DE24D /* Hike.swift */; };
 		046C17DA29FAEA97004D0C1F /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7D8D129E8FAB1006F8499 /* FavoriteButton.swift */; };
 		046C17DB29FAEA97004D0C1F /* CircleImge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7D8B029E8EC70006F8499 /* CircleImge.swift */; };
-		046C17DE29FAF0A5004D0C1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046C17DC29FAF0A5004D0C1F /* Assets.xcassets */; };
+		046C17E229FAF3EC004D0C1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046C17E129FAF3EB004D0C1F /* Assets.xcassets */; };
 		04C7D88229E8E7BD006F8499 /* _706012110014_DevanoAnggara_AFL3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7D88129E8E7BD006F8499 /* _706012110014_DevanoAnggara_AFL3App.swift */; };
 		04C7D88429E8E7BD006F8499 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7D88329E8E7BD006F8499 /* ContentView.swift */; };
 		04C7D88629E8E7C0006F8499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C7D88529E8E7C0006F8499 /* Assets.xcassets */; };
@@ -107,7 +107,7 @@
 		046C17C929FAEA36004D0C1F /* LandmarkDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		046C17CA29FAEA36004D0C1F /* LandmarkCommands.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
 		046C17CB29FAEA36004D0C1F /* MacLandmarks.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = MacLandmarks.entitlements; sourceTree = "<group>"; };
-		046C17DC29FAF0A5004D0C1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		046C17E129FAF3EB004D0C1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/AFL3-0706012110016-DarellAdityaSeanDarmayasa-main/MacLandmarks/Assets.xcassets"; sourceTree = "<group>"; };
 		04C7D87E29E8E7BD006F8499 /* 0706012110014-DevanoAnggara-AFL3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "0706012110014-DevanoAnggara-AFL3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C7D88129E8E7BD006F8499 /* _706012110014_DevanoAnggara_AFL3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _706012110014_DevanoAnggara_AFL3App.swift; sourceTree = "<group>"; };
 		04C7D88329E8E7BD006F8499 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -208,7 +208,7 @@
 		046C17BB29FAE9A5004D0C1F /* MacLandmarks */ = {
 			isa = PBXGroup;
 			children = (
-				046C17DC29FAF0A5004D0C1F /* Assets.xcassets */,
+				046C17E129FAF3EB004D0C1F /* Assets.xcassets */,
 				046C17CA29FAEA36004D0C1F /* LandmarkCommands.swift */,
 				046C17C929FAEA36004D0C1F /* LandmarkDetail.swift */,
 				046C17C829FAEA36004D0C1F /* LandmarkSettings.swift */,
@@ -500,7 +500,7 @@
 				046C17D429FAEA97004D0C1F /* landmarkData.json in Resources */,
 				046C17CF29FAEA97004D0C1F /* Assets.xcassets in Resources */,
 				046C17D729FAEA97004D0C1F /* hikeData.json in Resources */,
-				046C17DE29FAF0A5004D0C1F /* Assets.xcassets in Resources */,
+				046C17E229FAF3EC004D0C1F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
